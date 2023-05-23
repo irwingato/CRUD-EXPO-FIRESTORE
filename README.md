@@ -9,3 +9,15 @@ All projects created in Snack are publicly available, so you can easily share th
 If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+
+TELA DE LISTAGEM DE USUÁRIOS
+
+![image](https://github.com/irwingato/CRUD-EXPO-FIRESTORE/assets/45997584/21faf64e-a18a-4380-adce-42ec3a05e222)
+
+TELA DE CRIAR USUÁRIO
+
+![image](https://github.com/irwingato/CRUD-EXPO-FIRESTORE/assets/45997584/8d57fd47-46e0-4fb0-b185-ed1ccd4aed30)
+
+TELA DE DETALHE DO USUÁRIO
+
+![image](https://github.com/irwingato/CRUD-EXPO-FIRESTORE/assets/45997584/1f18e3dd-c0da-4080-adc2-c1db56758a3f)
